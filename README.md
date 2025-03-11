@@ -8,7 +8,6 @@ education:
   [
     "LBS-Eibiswald",
   ]
-company: Paragraph-Software
 
 fields_of_interests:
   [
@@ -39,14 +38,3 @@ fields_of_interests:
 <p>
     <!-- IDEs & Editors --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" alt="Rider" width="45" height="45"/> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="45" height="45"/> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PhpStorm" width="45" height="45"/> <!-- API & Testing --> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </p>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/adnan2504/adnan2504/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
