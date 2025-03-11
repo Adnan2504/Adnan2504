@@ -31,9 +31,9 @@ fields_of_interests:
   <!-- Databases --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> 
   <!-- Dev Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 <img src="https://www.svgrepo.com/show/374144/typescript.svg" alt="Docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="30" alt="xamarin logo"  />
 
 ![Adnan2504's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan2504&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
 
 <h3>🛠️ Tools</h3>
 <p>
@@ -42,3 +42,11 @@ fields_of_interests:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/adnan2504/adnan2504/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
