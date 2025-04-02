@@ -12,10 +12,8 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Baend Dev",
-    "Mobile Dev",
-    "DevOps",
-    "User Friendly Design"
+    "Backend Development",
+    "Mobile Development",
   ]
 
 ```
