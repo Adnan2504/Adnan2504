@@ -3,7 +3,7 @@
 ```yaml
 name: Adnan Bajric
 located_in: Graz, Austria
-current_job: Full Stack Apretnice Developer
+current_job: Full Stack Developer
 education:
   [
     "LBS-Eibiswald",
